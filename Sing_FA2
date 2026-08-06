@@ -1,0 +1,19 @@
+Section:9-Lithium						Score:____________
+C# / Name: Michael Caspian Sing				Date: August 6, 2026
+
+Scenario
+Your school installs a vending machine to provide snacks and drinks. However, students encounter several issues:
+Sometimes the machine does not give the correct change.
+Items run out, but the machine doesn’t notify anyone.
+Students press the wrong buttons and get the wrong item.
+The machine is slow when multiple students use it in succession.
+Your task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
+Step 1: Identify the Big Problem
+Main Problem: The vending machine does not function properly.
+
+Step 2: Identify three to four Sub-Problems
+Please list possible sub-problems:
+-The Machine sometimes does not give out the correct amount of change.
+-When the items run out, the vending machine does not notify staff.
+-The machine is very slow, especially when there’s a line of students using it in succession.
+-Students press the wrong buttons and get the wrong item.
